@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @WhoisTyreik
-- 👀 I’m interested in becoming a self-taught Software Develope
+- 👀 I’m interested in becoming a self-taught Software Developer
 - 🌱 I’m currently learning HTML, CSS, and Javascript
 - 💞️ I’m looking to collaborate on potential portfolio projects
 - 📫 How to reach me email: prenticetyreik@gmail.com cell: 301-825-3527
