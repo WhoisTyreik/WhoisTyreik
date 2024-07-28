@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @WhoisTyreik
+- 👋 Hi, I’m Tyreik Prentice - @WhoisTyreik
 - 👀 I’m interested in becoming a self-taught Software Developer
 - 🌱 I’m currently learning HTML, CSS, and Javascript/Python
 - 💞️ I’m looking to collaborate on potential portfolio projects and networking
