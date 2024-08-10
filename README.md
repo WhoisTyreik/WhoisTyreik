@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Tyreik Prentice - @WhoisTyreik
-- 👀 I’m a self-taught software developer.
-- 🌱 I’m currently learning the fundementals of programming, I am currently focused on the HTML, CSS, and JavaScript languages.
-- 💞️ I’m looking to collaborate on potential portfolio projects as well as networking with people in the SWE/CS field.
+- 👀 I’m a self-taught software developer
+- 🌱 I'm currently focused on the HTML, CSS, and JavaScript languages, to become a web developer.
+- 💞️ I’m looking to collaborate on potential portfolio projects as well as networking with people in the SWEET community.
 - 📫 How to reach me:
  my email: prenticetyreik@gmail.com
 - 😄 Pronouns: He/Him
