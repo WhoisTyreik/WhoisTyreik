@@ -5,7 +5,7 @@
 - 📫 How to reach me:
  my email: prenticetyreik@gmail.com
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I love to skate! I own an electric skateboard that goes up to 35 miles per hour.
+- ⚡ Fun fact: I love to skate! I own an electric skateboard that goes up to 35 miles per hour, I would love to upgrade to a EUc in the near future. 
 
 <!---
 WhoisTyreik/WhoisTyreik is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
