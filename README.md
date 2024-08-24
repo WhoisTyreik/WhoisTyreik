@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Tyreik Prentice - @WhoisTyreik
-- 👀 I’m a self-taught software developer, currently working full time in tech sales.
-- 🌱 I'm currently focused on the HTML, CSS, and JavaScript languages, to continue my tech journey.
+- 👀 I’m a self-taught software developer, currently working full time in the tech sales field.
+- 🌱 I'm currently focusing on the HTML, CSS, and JavaScript languages.
 - 💞️ I’m looking to collaborate on potential portfolio projects as well as networking with people in the tech-community.
 - 📫 How to reach me:
  my email: prenticetyreik@gmail.com
